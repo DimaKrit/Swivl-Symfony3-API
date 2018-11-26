@@ -5,7 +5,8 @@ Installation
 ------------
 
 ```bash
-$ composer create-project DimaKrit/Swivl-Symfony3-API
+$ composer create-project dimakrit/swivl-symfony3-api
+
 ```
 
 Usage
