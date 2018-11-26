@@ -1,8 +1,9 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "DimaKrit/Swivl-Symfony3-API",
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle",
