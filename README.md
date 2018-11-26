@@ -5,7 +5,7 @@ Installation
 ------------
 
 ```bash
-$ composer create-project dimakrit/swivl-symfony3-api
+$ git clone https://github.com/DimaKrit/Swivl-Symfony3-API.git
 
 ```
 
